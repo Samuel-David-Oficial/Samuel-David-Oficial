@@ -35,6 +35,6 @@ Desenvolvedor em formação e entusiasta de tecnologia, focado em desenvolviment
 
 ### 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-PERFIL-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Meu_Portfólio-25D366?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seu-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-david-oficial)
+[![Portfolio](https://img.shields.io/badge/Meu_Portfólio-25D366?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://seu-portfolio-link.com](https://samuel-david-oficial.github.io/meu-repositorio/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samueldavidbr03@gmail.com)
