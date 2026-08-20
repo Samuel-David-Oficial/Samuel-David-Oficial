@@ -27,8 +27,8 @@ Desenvolvedor em formação e entusiasta de tecnologia, focado em desenvolviment
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samuel-David-Oficial&theme=dark" alt="Linguagens por Repositório" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samuel-David-Oficial&theme=dark" alt="Linguagens por Commits" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samuel-David-Oficial&show_icons=true&theme=dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-David-Oficial&theme=dark&hide_border=true&locale=pt-br" alt="Linguagens Mais Usadas" />
 </p>
 
 ---
