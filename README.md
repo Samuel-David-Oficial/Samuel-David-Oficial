@@ -26,10 +26,14 @@ Desenvolvedor em formação e entusiasta de tecnologia, focado em desenvolviment
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samuel-David-Oficial&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-David-Oficial&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" height="160"/>
-</div>
+<p align="center">
+  <a href="https://github.com/Samuel-David-Oficial">
+    <img src="https://github-readme-stats.vercel.app/api?username=Samuel-David-Oficial&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/Samuel-David-Oficial">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-David-Oficial&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" />
+  </a>
+</p>
 
 ---
 
